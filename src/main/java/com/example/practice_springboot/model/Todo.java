@@ -1,5 +1,7 @@
-import java.util.Scanner;
+package com.example.practice_springboot.model;
+
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Todo{
 	public static void main(String[] args){
