@@ -1,3 +1,5 @@
+package com.example.practice_springboot.model;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
